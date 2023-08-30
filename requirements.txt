@@ -1,0 +1,1 @@
+streamlit-vis-timeline ==  0.3.0
